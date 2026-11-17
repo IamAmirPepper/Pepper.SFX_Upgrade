@@ -13,6 +13,22 @@ there to finish the job. Neither free nor full contains it. It's editor-only and
 
 ---
 
+## Which free versions it works from
+
+**Free 3.0.0 or later: everything comes across.** Every script a project can save (in an asset, a scene or a prefab)
+is in this package's map, so the dry run should report nothing unmatched.
+
+**Free 2.x: almost everything.** A few things free had then and no longer has stay missing, and the dry run reports
+them as unmatched:
+- the Mixer's layout (`Assets/Settings/Audio/MixerLayout.asset`): delete it, and the full version's Mixer makes a new
+  one;
+- any Visualizer Source Channel assets: make them again from `Create ▸ PepperSFX ▸ Settings`;
+- the Convolution Reverb Dev Tester component, which no longer exists: remove it.
+
+Updating free to the latest version first doesn't change this.
+
+---
+
 ## The one rule
 
 > ⚠️ **While your assets show "Missing (Mono Script)", do NOT save them.**
