@@ -1,0 +1,14 @@
+{
+  "name": "com.pepper.sfx.upgrade",
+  "displayName": "Pepper.SFX Upgrade From Free",
+  "version": "3.1.0",
+  "unity": "6000.0",
+  "unityRelease": "48f1",
+  "description": "Moves a project from the free version of Pepper.SFX (compiled DLLs) to the full version (source) without losing anything you made: it rewrites every script reference once. Install it next to free, before you remove free. Editor only; remove it when you're done.",
+  "author": {
+    "name": "Amir",
+    "url": "https://peppersfx.com"
+  },
+  "documentationUrl": "https://github.com/IamAmirPepper/Pepper.SFX_Upgrade#readme",
+  "keywords": ["audio", "sfx", "upgrade", "pepper"]
+}

@@ -1,0 +1,230 @@
+{
+    "version": "3.1.0",
+    "generatedUtc": "2026-11-14 16:05:01Z",
+    "dlls": [
+        {
+            "assembly": "SFXSystem.Runtime",
+            "guid": "185cca1de5fe9184da36f5ffa2232159",
+            "types": [
+                {
+                    "fileId": 2109318924,
+                    "type": "AudioSystem.AudioAttenuation"
+                },
+                {
+                    "fileId": 110173091,
+                    "type": "AudioSystem.AudioBus"
+                },
+                {
+                    "fileId": -842695476,
+                    "type": "AudioSystem.AudioContainer"
+                },
+                {
+                    "fileId": -592576888,
+                    "type": "AudioSystem.AudioEmitter"
+                },
+                {
+                    "fileId": -1580357544,
+                    "type": "AudioSystem.AudioEvent"
+                },
+                {
+                    "fileId": 1274371838,
+                    "type": "AudioSystem.AudioEventRegistry"
+                },
+                {
+                    "fileId": 162331359,
+                    "type": "AudioSystem.AudioManager"
+                },
+                {
+                    "fileId": 452967728,
+                    "type": "AudioSystem.AudioManagerRunner"
+                },
+                {
+                    "fileId": 1598039575,
+                    "type": "AudioSystem.AudioMultiPositionEmitterChild"
+                },
+                {
+                    "fileId": 2039343615,
+                    "type": "AudioSystem.AudioMultiPositionEmitterParent"
+                },
+                {
+                    "fileId": 237168724,
+                    "type": "AudioSystem.AudioParameter"
+                },
+                {
+                    "fileId": -604460413,
+                    "type": "AudioSystem.AudioParameterRecording"
+                },
+                {
+                    "fileId": 1181444899,
+                    "type": "AudioSystem.AudioState"
+                },
+                {
+                    "fileId": -796472241,
+                    "type": "AudioSystem.AudioSwitchGroup"
+                },
+                {
+                    "fileId": -432470081,
+                    "type": "AudioSystem.BeatScheduler"
+                },
+                {
+                    "fileId": -1475013664,
+                    "type": "AudioSystem.BlendContainer"
+                },
+                {
+                    "fileId": -1614317285,
+                    "type": "AudioSystem.OcclusionLayout"
+                },
+                {
+                    "fileId": 1681602943,
+                    "type": "AudioSystem.Propagation.AmbientEmitter"
+                },
+                {
+                    "fileId": -1006963350,
+                    "type": "AudioSystem.Propagation.AmbientSource"
+                },
+                {
+                    "fileId": 103714099,
+                    "type": "AudioSystem.Propagation.AudioListenerZoneTracker"
+                },
+                {
+                    "fileId": 1908926798,
+                    "type": "AudioSystem.Propagation.AudioPortal"
+                },
+                {
+                    "fileId": 438797881,
+                    "type": "AudioSystem.Propagation.AudioZone"
+                },
+                {
+                    "fileId": 1584277275,
+                    "type": "AudioSystem.Propagation.PropagationManager"
+                },
+                {
+                    "fileId": 628205313,
+                    "type": "AudioSystem.RandomContainer"
+                },
+                {
+                    "fileId": 1785605818,
+                    "type": "AudioSystem.ReverbSendBus"
+                },
+                {
+                    "fileId": -1183383295,
+                    "type": "AudioSystem.ReverbSendBusRegistry"
+                },
+                {
+                    "fileId": -1146682895,
+                    "type": "AudioSystem.RoutingContainer"
+                },
+                {
+                    "fileId": -364794580,
+                    "type": "AudioSystem.SequenceContainer"
+                },
+                {
+                    "fileId": -689363452,
+                    "type": "AudioSystem.SwitchContainer"
+                }
+            ]
+        },
+        {
+            "assembly": "SFXSystem.Editor",
+            "guid": "350c266aa26477146a19f969cf09e021",
+            "types": [
+                {
+                    "fileId": 1423325351,
+                    "type": "AudioSystem.AudioVoicePoolDebugWindow"
+                },
+                {
+                    "fileId": -658509072,
+                    "type": "AudioSystem.Editor.AudioContainerValidator"
+                },
+                {
+                    "fileId": -510821384,
+                    "type": "AudioSystemEditor.Analysis.LoopAnalysisWindow"
+                },
+                {
+                    "fileId": 370224265,
+                    "type": "AudioSystemEditor.AudioEventEditor"
+                },
+                {
+                    "fileId": -864115754,
+                    "type": "AudioSystemEditor.AudioEventIdWindow"
+                },
+                {
+                    "fileId": -12006908,
+                    "type": "AudioSystemEditor.AudioEventRegistryEditor"
+                },
+                {
+                    "fileId": 1772744779,
+                    "type": "AudioSystemEditor.Audition.AudioAuditionWindow"
+                },
+                {
+                    "fileId": 1605177780,
+                    "type": "AudioSystemEditor.Containers.AudioContainerInspector"
+                },
+                {
+                    "fileId": -1148666168,
+                    "type": "AudioSystemEditor.Explorer.AudioExplorerWindow"
+                },
+                {
+                    "fileId": 2069399984,
+                    "type": "AudioSystemEditor.Import.AudioImportManager"
+                },
+                {
+                    "fileId": -1094633222,
+                    "type": "AudioSystemEditor.Import.AudioImportSettings"
+                },
+                {
+                    "fileId": 1773859051,
+                    "type": "AudioSystemEditor.Import.AudioImportSettingsEditor"
+                },
+                {
+                    "fileId": 1144986628,
+                    "type": "AudioSystemEditor.LiveView.AudioLiveViewWindow"
+                },
+                {
+                    "fileId": 2008909403,
+                    "type": "AudioSystemEditor.Mixer.AudioBusEditor"
+                },
+                {
+                    "fileId": -478451718,
+                    "type": "AudioSystemEditor.Occlusion.AudioManagerInspector"
+                },
+                {
+                    "fileId": 347560573,
+                    "type": "AudioSystemEditor.Occlusion.OcclusionLayoutWindow"
+                },
+                {
+                    "fileId": 1055160992,
+                    "type": "AudioSystemEditor.Parameters.AudioEmitterEditor"
+                },
+                {
+                    "fileId": -1790905756,
+                    "type": "AudioSystemEditor.Parameters.AudioParameterEditor"
+                },
+                {
+                    "fileId": 1271694590,
+                    "type": "AudioSystemEditor.Propagation.AudioPortalEditor"
+                },
+                {
+                    "fileId": -1610862972,
+                    "type": "AudioSystemEditor.Propagation.AudioZoneEditor"
+                },
+                {
+                    "fileId": -807768439,
+                    "type": "AudioSystemEditor.Propagation.PropagationManagerEditor"
+                },
+                {
+                    "fileId": 20993821,
+                    "type": "AudioSystemEditor.Reverb.ReverbSendBusInspector"
+                },
+                {
+                    "fileId": 1177269074,
+                    "type": "AudioSystemEditor.Reverb.ReverbSendBusWindow"
+                },
+                {
+                    "fileId": -1452911319,
+                    "type": "AudioSystemEditor.SoundBuilderSimpleWindow"
+                }
+            ]
+        }
+    ]
+}
