@@ -1,0 +1,73 @@
+Pepper.SFX Upgrade License
+Version 1.0, 17 November 2026
+
+Copyright (c) 2026 Amir Pepper. All rights reserved, except as granted
+below.
+
+"The Package" means Pepper.SFX Upgrade From Free, as published at
+https://github.com/IamAmirPepper/Pepper.SFX_Upgrade: its editor scripts, its
+upgrade map, its guide and every other file in it. It moves a Unity project
+from the free version of Pepper.SFX to the full version. The free version has
+its own license, and the full version sold on the Unity Asset Store is covered
+by the Unity Asset Store End User License Agreement; this license covers
+neither.
+
+1. What you may do
+
+   Free of charge, you may:
+
+   a. use the Package in any number of your own Unity projects, on your own
+      or as part of a team or company of any size;
+
+   b. change the Package's scripts for your own use, for example to fit how
+      your project is laid out;
+
+   c. keep the Package inside your project's files when you share the
+      project with your team, publisher or contractors, or with the public,
+      as long as this license stays with it and the Package isn't offered as
+      a product of its own.
+
+   The Package is an editor tool: it never goes into your builds, so there
+   is nothing to credit in your game.
+
+   Forking the repository on GitHub, as GitHub's own terms allow, is fine.
+
+2. What you may not do
+
+   You may not:
+
+   a. sell, sublicense or redistribute the Package on its own, changed or
+      not, or as part of a tool, template, asset or package made for other
+      developers (for example on the Unity Asset Store or any other
+      marketplace);
+
+   b. remove or change this license or any copyright notice in the Package;
+
+   c. use the name Pepper.SFX, or its logo, to suggest that its author
+      endorses you or your product.
+
+3. Your project's files
+
+   The Package rewrites files in your project. It zips every file it changes
+   before changing it, but back up your project yourself before you run it
+   (with version control, or a copy of the project folder), as its guide
+   says. Your project and its backups are your responsibility.
+
+4. Other versions
+
+   A later version of the Package may come with a different license. The
+   license that came with your copy is the one that applies to that copy.
+
+5. If you break these terms
+
+   Your rights under this license end automatically if you break any of its
+   terms.
+
+6. No warranty
+
+   THE PACKAGE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+   ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE PACKAGE OR THE USE OR OTHER DEALINGS IN THE PACKAGE.

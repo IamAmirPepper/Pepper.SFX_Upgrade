@@ -89,6 +89,13 @@ only needed once. Keep the zip in `Backups/` until you're happy.
 
 ---
 
+## License
+
+Free to use in any of your projects, and to change for your own use. You can't resell or re-upload the package
+itself. It never goes into your builds. See [LICENSE.txt](./LICENSE.txt).
+
+---
+
 ## About
 
 Made by Amir Pepper. The free and full versions, the guides and support: [peppersfx.com](https://peppersfx.com).
