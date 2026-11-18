@@ -1,7 +1,7 @@
 {
   "name": "com.pepper.sfx.upgrade",
   "displayName": "Pepper.SFX Upgrade From Free",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "unity": "6000.0",
   "unityRelease": "48f1",
   "description": "Moves a project from the free version of Pepper.SFX (compiled DLLs) to the full version (source) without losing anything you made: it rewrites every script reference once. Install it next to free, before you remove free. Editor only; remove it when you're done.",
